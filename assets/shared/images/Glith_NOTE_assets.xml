@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Glith_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glith Down alone образец 10000" x="0" y="0" width="158" height="154"/>
+	<SubTexture name="glith Left alone образец 10000" x="158" y="0" width="154" height="157"/>
+	<SubTexture name="glith Right alone образец 10000" x="312" y="0" width="154" height="157"/>
+	<SubTexture name="glith Up alone образец 10000" x="0" y="157" width="157" height="154"/>
+</TextureAtlas>

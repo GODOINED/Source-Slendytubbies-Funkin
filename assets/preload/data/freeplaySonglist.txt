@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Rage:TinkyWinky:1
+Creepy:TinkyWinky:1
+Shock:TinkyWinky:1
+JumpScare:LaaLaa:2
